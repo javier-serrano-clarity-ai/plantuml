@@ -1,6 +1,6 @@
-!include C4.puml
-!include C4_Context.puml
-!include C4_Container.puml
-!include C4_Component.puml
-!include C4_Deployment.puml
-!include C4_Dynamic.puml
+!include https://raw.githubusercontent.com/javier-serrano-clarity-ai/plantuml/main/C4.puml
+!include https://raw.githubusercontent.com/javier-serrano-clarity-ai/plantuml/main/C4_Context.puml
+!include https://raw.githubusercontent.com/javier-serrano-clarity-ai/plantuml/main/C4_Container.puml
+!include https://raw.githubusercontent.com/javier-serrano-clarity-ai/plantuml/main/C4_Component.puml
+!include https://raw.githubusercontent.com/javier-serrano-clarity-ai/plantuml/main/C4_Deployment.puml
+!include https://raw.githubusercontent.com/javier-serrano-clarity-ai/plantuml/main/C4_Dynamic.puml
