@@ -1,6 +1,6 @@
 ' !includeurl https://gitlab.clarity.ai/product/data/architecture/c4_models/c4-plantuml-clarity/-/raw/master/C4_Container.puml
 ' uncomment the following line and comment the first to use locally
-!include C4_Container.puml
+!include https://raw.githubusercontent.com/javier-serrano-clarity-ai/plantuml/main/C4_Container.puml
 
 ' Scope: A single container.
 ' Primary elements: Components within the container in scope.
